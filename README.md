@@ -18,13 +18,13 @@ SpringBoot + JSP를 이용한 커플 쇼핑몰
 
 - 2023-02-21 ~ 2023-03-13 (15일)
 
-### 개발 인원
+## 개발 인원
 
 - 팀장 이승주 - 프로젝트 총괄, 화면 구현, 기능 구현, 기능 설계
 - 팀원 서단우 - 화면 구현, 기능 구현, DB 설계
 - 팀원 조희은 - 화면 설계, 화면 구현, 산출물 관리, 일정 계획
 
-### 개발 환경
+## 개발 환경
 
 - Java 8
 - JDK 1.8.0
@@ -33,4 +33,13 @@ SpringBoot + JSP를 이용한 커플 쇼핑몰
 - Database : Oracle DB
 - ORM : Mybatis
 
-## 주요 기능
+## 주요 기능 및 화면
+
+로그인
+
+<details>
+<summary>더보기</summary>
+
+![로그인](https://github.com/Francisco95/Amall/assets/77893146/3bc0efad-7020-4210-a7ac-955d0d2c9834)
+
+</details>
